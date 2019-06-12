@@ -1,6 +1,6 @@
 
 
-# Axel pimped the Apache-status
+# Axel enhanced the Apache-status
 
 Ressources:
 
@@ -18,9 +18,9 @@ Ressources:
   The default apache status shows you information about current Apache 
   activity. But these server-status pages are difficult to read.
 
-  The pimped Apache status makes the Apache server status readable,
+  The enhanced Apache status makes the Apache server status readable,
   sortable and searchable. 
-  The pimped Apache status can merge the status of several servers
+  The enhanced Apache status can merge the status of several servers
   that opens the possibility to identify the troubleshooter in a
   load balanced website much more easily. 
   Btw: I use the script to fetch the status from 20+ servers.
@@ -35,7 +35,7 @@ Ressources:
 ![Screesnhot Pimped Apache Status](https://www.axel-hahn.de/assets/projects/pimped-apache-status/01-history-popup.png)
 
 ## REQUIREMENTS
-  * On the system you want to install the pimped Apache status:
+  * On the system you want to install the enhanced Apache status:
     - any webserver with php 5 (with curl; no database is needed)
   * On all webservers you want to monitor:
     - apache 2.x
